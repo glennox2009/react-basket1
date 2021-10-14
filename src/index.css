@@ -1,0 +1,13 @@
+.header {
+    width:100%;
+    height:100px;
+    background: #ff8800;
+}
+.singleProduct {
+    display:flex;
+    width:500px;
+}
+.productImage img {
+    width:50px;
+
+}
